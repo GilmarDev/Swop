@@ -5,7 +5,7 @@ A plataforma foi criada através da elaboração de um case servem exclusivament
 Um serviço de permunta solução inteligente para troca de serviços sem tirar 1 centavo do bolso. Nossa plataforma permite o escambo de forma prática, rápida e segura.
 
 O site foi criado utilizado **MySQL** como banco de dados o back-end foi utilizado a linguagem **PHP** as páginas foram criadas com **HTML** utilizado **Bootstrap** e **JavaScript**
-e a personalização da páginas foram utilizados recursos variados do **CSS**
+e a personalização da páginas foram utilizados recursos variados do **CSS**.
 
 ## Objetivos 
 - Isenção de impostos as negociações feitas por meio de escambo são isentas de impostos
