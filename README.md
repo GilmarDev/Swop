@@ -26,3 +26,8 @@ O Escambo Livre, por meio de serviço, tem a função de atualizar e aprimorar o
 
 ## Quais as principais vantagens oferecidas?
 Aumento de visibilidade e demanda do prestador de serviço, as negociações feitas por meio de escambo são isentas de impostos e a plataforma possibilita criar um currículo de referência, podendo ser feito publicidade de forma direcionada a um determinado grupo de prestadores de serviços
+
+## Agradecimentos
+Primeiramente gostaria de agradecer a Deus.
+A todos os meus professores do curso de CURSO DE INFORMÁTICA PARA INTERNET da ETEC-SEBRAE Campos Eliseos pela excelência da qualidade técnica de cada um.
+Aos meus colegas do curso de BRUNA ROJAS; ROBSON SANTOS e ANDRESSA ALVES pelas trocas de ideias e ajuda mútua. Juntos conseguimos avançar e ultrapassar todos os obstáculos.
