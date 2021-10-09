@@ -19,3 +19,4 @@ e a personalização da páginas foram utilizados recursos variados do **CSS**
 |Cadastrar usuários   |
 |Ter acessibilidade, ser responsivo e fácil de usar|
 |Exibir serviços e anúncios de fato úteis para os usuários|
+|permite troca de serviços entre prestadores de serviços (advogados, médicos, mecânicos entre outros)|
