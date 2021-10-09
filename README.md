@@ -30,6 +30,6 @@ Aumento de visibilidade e demanda do prestador de serviço, as negociações fei
 ## Agradecimentos
 Primeiramente gostaria de agradecer a Deus.
 
-A todos os meus professores do curso de Curso Informática para Internet da ETEC-SEBRAE Campos Eliseos pela excelência da qualidade técnica de cada um.
+A todos os meus professores do curso de Curso Informática para Internet da ETEC-SEBRAE Campos Elíseos pela excelência da qualidade técnica de cada um.
 
-Aos meus colegas do curso Bruna Rojas; RObson Santos e Aandressa Alves pelas trocas de ideias e ajuda mútua. Juntos conseguimos avançar e ultrapassar todos os obstáculos.
+Aos meus colegas do curso Bruna Rojas; Robson Santos e Andressa Alves pelas trocas de ideias e ajuda mútua. Juntos conseguimos avançar e ultrapassar todos os obstáculos.
