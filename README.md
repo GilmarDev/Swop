@@ -32,4 +32,4 @@ Primeiramente gostaria de agradecer a Deus.
 
 A todos os meus professores do curso de CURSO DE INFORMÁTICA PARA INTERNET da ETEC-SEBRAE Campos Eliseos pela excelência da qualidade técnica de cada um.
 
-Aos meus colegas do curso de BRUNA ROJAS; ROBSON SANTOS e ANDRESSA ALVES pelas trocas de ideias e ajuda mútua. Juntos conseguimos avançar e ultrapassar todos os obstáculos.
+Aos meus colegas do curso BRUNA ROJAS; ROBSON SANTOS e ANDRESSA ALVES pelas trocas de ideias e ajuda mútua. Juntos conseguimos avançar e ultrapassar todos os obstáculos.
