@@ -23,3 +23,6 @@ e a personalização da páginas foram utilizados recursos variados do **CSS**
 
 ## Como funciona ?
 O Escambo Livre, por meio de serviço, tem a função de atualizar e aprimorar o que se fazia no passado, sem entrega de dinheiro, apenas como o pagamento em prestação de serviços. O prestador de serviço irá se cadastrar na plataforma e terá direito a inserir seus dados de contato, portfólio de serviços e fazer trocar entre outros usuário.
+
+## Quais as principais vantagens oferecidas?
+Aumento de visibilidade e demanda do prestador de serviço, as negociações feitas por meio de escambo são isentas de impostos e a plataforma possibilita criar um currículo de referência, podendo ser feito publicidade de forma direcionada a um determinado grupo de prestadores de serviços
