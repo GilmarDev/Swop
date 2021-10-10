@@ -33,3 +33,6 @@ Primeiramente gostaria de agradecer a Deus.
 A todos os meus professores do curso de Curso Informática para Internet da ETEC-SEBRAE Campos Elíseos pela excelência da qualidade técnica de cada um.
 
 Aos meus colegas do curso Bruna Rojas; Robson Santos e Andressa Alves pelas trocas de ideias e ajuda mútua. Juntos conseguimos avançar e ultrapassar todos os obstáculos.
+
+![certificado](https://user-images.githubusercontent.com/67063112/136677702-9fd76d39-d7c8-40ca-839a-a2b85b315d1f.jpg)
+#### certificado
